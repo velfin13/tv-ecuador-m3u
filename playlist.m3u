@@ -9,6 +9,8 @@ https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 #EXTINF:-1 tvg-id="TCTelevision.ec" tvg-logo="https://i.imgur.com/TCTelevisionLogo.png" group-title="General",TC Televisión
 https://live-c.cf.dmcdn.net/sec2(pbdRnPqhs_xe_IvloPWrbnqdB685Dn06K745qJo_wnJmnUq1Q5t4IzPWd4tZeRWFiDBqUuhxMIQULNYuGHhEOa_jAPBNLvIneQtv_KdaTAzYvAKBUyOSMMgL9H4fTNb0)/dm/3/x7wijay/d/live-720.m3u8
 
+#EXTINF:-1, Gamavision
+https://stream-pull-a.yololiv.com/yololiv/1215701294614847488_yo720p30f.m3u
 
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://i.imgur.com/TeleamazonasLogo.png" group-title="General",Teleamazonas
 #EXTVLCOPT:audio-track=1
