@@ -6,13 +6,13 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 #EXTINF:-1 tvg-id="Manavision.ec" tvg-logo="https://i.imgur.com/mZkW342.png" group-title="General",Manavision
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 
-#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-logo="https://i.imgur.com/TCTelevisionLogo.png" group-title="General",TC Televisión
-https://live-c.cf.dmcdn.net/sec2(pbdRnPqhs_xe_IvloPWrbnqdB685Dn06K745qJo_wnJmnUq1Q5t4IzPWd4tZeRWFiDBqUuhxMIQULNYuGHhEOa_jAPBNLvIneQtv_KdaTAzYvAKBUyOSMMgL9H4fTNb0)/dm/3/x7wijay/d/live-720.m3u8
+#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="General",TC Televisión
+https://live-c.cf.dmcdn.net/sec2(GX7MREPsbg2zuUjnXMp0k26eL_XUPAhQjj8JQsWOZa0mVAZnghMXHoKENTVhkABIaEVMOzGjcmA_LD3stcKN_p2qJBq47lWLzwdmfjUWegvYfUJ_o7u_4-lCfXuKy_Ge)/dm/3/x7wijay/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="gamavision.com.ec", Gamavision
 https://stream-pull-b.yololiv.com/yololiv/1215701294614847488_yo720p30f.m3u8
 
-#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://i.imgur.com/TeleamazonasLogo.png" group-title="General",Teleamazonas
+#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="General",Teleamazonas
 #EXTVLCOPT:audio-track=1
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/live-video=600000.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec" group-title="General",Teleamazonas (Audio)
