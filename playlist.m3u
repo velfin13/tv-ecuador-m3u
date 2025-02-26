@@ -1,22 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="General",Ecuavisa
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador",Ecuavisa
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Manavision.ec" tvg-logo="https://i.imgur.com/mZkW342.png" group-title="General",Manavision
+#EXTINF:-1 tvg-id="Manavision.ec" tvg-logo="https://i.imgur.com/mZkW342.png" group-title="Ecuador",Manavision
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 
-#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="General",TC Televisión
+#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="Ecuador",TC Televisión
 https://live-c.cf.dmcdn.net/sec2(GX7MREPsbg2zuUjnXMp0k26eL_XUPAhQjj8JQsWOZa0mVAZnghMXHoKENTVhkABIaEVMOzGjcmA_LD3stcKN_p2qJBq47lWLzwdmfjUWegvYfUJ_o7u_4-lCfXuKy_Ge)/dm/3/x7wijay/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="gamavision.com.ec" tvg-logo="https://www.gamavision.com.ec/wp-content/uploads/2020/05/gamavision-logo.png", Gamavision
 https://stream-pull-b.yololiv.com/yololiv/1215701294614847488_yo720p30f.m3u8
 
-#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="General",Teleamazonas
+
+#EXTINF:-1 tvg-id="rts.com.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png", RTS
+https://d27a7brtx3v90o.cloudfront.net/360p.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd27a7brtx3v90o.cloudfront.net%2Findex.m3u8%22%2Csid%3D%22835d9c16-a71f-4bbd-9324-d91a645c5673%22
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="Ecuador",Teleamazonas
 #EXTVLCOPT:audio-track=1
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/live-video=600000.m3u8
-#EXTINF:-1 tvg-id="Teleamazonas.ec" group-title="General",Teleamazonas (Audio)
+#EXTINF:-1 tvg-id="Teleamazonas.ec" group-title="Ecuador",Teleamazonas (Audio)
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/live-audio_0=96000.m3u8
-
-
-
